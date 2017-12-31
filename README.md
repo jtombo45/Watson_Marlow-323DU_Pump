@@ -1,5 +1,5 @@
-# Watson-Marlow-Pump-Py-Script
-A python script to connect via serial to run a Watson-Marlow flow pump
+# Watson Marlow Pump 323U/DU Python Script
+A python script to connect via serial RS232 to run a Watson Marlow flow pump
 Uses tkinter, pyserial
 
 Works with model 323U/DU with rs232 (should work with other models)
